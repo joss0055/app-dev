@@ -1,2 +1,7 @@
-# app-dev
-my first repostory
+# MY FAVOURITE MOVIE
+
+***UP***
+
+Up is a 2009 American animated comedy-drama adventure film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film was directed by Pete Docter, co-directed by Bob Peterson, and produced by Jonas Rivera. Docter and Peterson also wrote the film's screenplay and story, with Tom McCarthy co-writing the latter. The film stars the voices of Ed Asner, Christopher Plummer, Jordan Nagai, and Bob Peterson. The film centers on Carl Fredricksen (Asner), an elderly widower who travels to South America with wilderness explorer Russell (Nagai) in order to fulfill a promise that he made to his late wife Ellie. Along the way, they meet a talking dog named Dug (Peterson) and encounter a giant bird named Kevin, who is being hunted by the explorer Charles Muntz (Plummer), whom Carl had idolized in childhood.
+
+10-year old Carl Fredricksen idolizes famed explorer Charles Muntz. Muntz was discredited when a giant bird skeleton he brought back from Paradise Falls in South America was deemed a fake, and he returned to the Falls soon after, vowing to bring back a living specimen. Carl befriends Ellie, another Muntz fan, who keeps a scrapbook of her adventures and dreams of moving her "clubhouse" (an abandoned home in the neighborhood) to a cliff beside Paradise Falls. Carl and Ellie eventually marry, move into the clubhouse, and take jobs at the city zoo as a balloon salesman and a tour guide, respectively. After Ellie suffers a miscarriage,[2] the couple decide to save for a trip to Paradise Falls but must repeatedly spend the money on more pressing needs. Years later, Carl decides to surprise Ellie with tickets to Paradise Falls, but she falls ill and is hospitalized. Ellie gives him her scrapbook before passing away.
